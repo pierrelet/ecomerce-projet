@@ -1,0 +1,15 @@
+{
+    "name": "pierre/ecommerce_mvc_project",
+    "autoload": {
+        "psr-4": {
+            "Pierre\\EcommerceMvcProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pierre Relet",
+            "email": "pierre.relet@efrei.net"
+        }
+    ],
+    "require": {}
+}
